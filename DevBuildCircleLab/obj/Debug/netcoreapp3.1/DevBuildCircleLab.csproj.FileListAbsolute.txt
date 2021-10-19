@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.exe
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\bin\Debug\netcoreapp3.1\DevBuildCircleLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - Knex\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCircleLab\DevBuildCircleLab\obj\Debug\netcoreapp3.1\DevBuildCircleLab.genruntimeconfig.cache
