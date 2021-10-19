@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj": {}
+    "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj": {
+    "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj",
+        "projectUniqueName": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj",
         "projectName": "DevBuildCircleLab",
-        "projectPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj",
+        "projectPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\DevBuildCircleLab.csproj",
         "packagesPath": "C:\\Users\\CCHRISTIAN1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\obj\\",
+        "outputPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\Week 1\\Labs Repo\\DevBuildCircleLab\\DevBuildCircleLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CCHRISTIAN1\\AppData\\Roaming\\NuGet\\NuGet.Config",

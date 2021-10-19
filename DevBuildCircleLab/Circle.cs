@@ -26,9 +26,9 @@ namespace DevBuildCircleLab
 
         public override string ToString()
         {
-            return $"Radius: {Radius}\n" +
-                $"Circumference: {Circumference}\n" +
-                $"Area: {Area}\n";
+            return $"Radius: {Math.Round(Radius, 2)}\n" +
+                $"Circumference: {Math.Round( Circumference, 2)}\n" +
+                $"Area: {Math.Round(Area, 2)}\n";
         }
 
     }
